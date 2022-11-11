@@ -20,11 +20,21 @@ Since my second model ('AphabetSoupCharity_Optimization2.ipynb') gave me the bes
   - I tried adding up to 3-4 hidden layers with parameters above 20,000, and this did not help with making the model more accurate.  I also tried using different activations other than 'relu' but that did not appear to help either.  I eliminated the 'SPECIAL_CONSIDERATIONS' and 'STATUS' columns as well to try to clean up the dataset more, but that was to no avail as well.  I was very worried about overfitting the dataset after seeing how the accuracy went down when adding various neurons and layers.  
 
 ### Results from 3 different attempts:
+
+Attempt 1
+
 ![Attempt1.png](images/Attempt1.png)
+
+
+Attempt 2
 
 ![Attempt2.png](images/Attempt2.png)
 
+
+Attempt 3
+
 ![Attempt3.png](images/Attempt3.png)
+
 
 
 ## Summary
